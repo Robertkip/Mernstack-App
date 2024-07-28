@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "rony@2022",
+      "database": "user_shop",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+

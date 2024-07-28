@@ -1,0 +1,101 @@
+#footer {
+  background-image: url('https://plus.unsplash.com/premium_photo-1683134066903-aef20412abf3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zmxvd2VyfGVufDB8fDB8fHww');/* replace with your background image URL */
+  background-size: cover;
+  background-position: center;
+  margin-top: 10px;
+  color: #fff;
+  position: static;
+  bottom: 0px;
+}
+
+#footer .footer-top {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+#footer .footer-top .footer-info {
+  margin-bottom: 20px;
+}
+
+#footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer .footer-top .footer-links ul li {
+  margin-bottom: 10px;
+}
+
+#footer .footer-top .footer-links ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-top .footer-contact {
+  margin-bottom: 20px;
+}
+
+#footer .footer-top .footer-contact p {
+  margin-bottom: 20px;
+}
+
+#footer .footer-top .footer-contact .social-links {
+  margin-top: 20px;
+}
+
+#footer .footer-top .footer-contact .social-links a {
+  margin-right: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-top .footer-newsletter {
+  margin-bottom: 20px;
+}
+
+#footer .footer-top .footer-newsletter form {
+  margin-top: 20px;
+}
+
+#footer .footer-top .footer-newsletter form input[type="text"], 
+#footer .footer-top .footer-newsletter form input[type="email"], 
+#footer .footer-top .footer-newsletter form input[type="number"], 
+#footer .footer-top .footer-newsletter form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+#footer .footer-top .footer-newsletter form input[type="submit"] {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#footer .footer-top .footer-newsletter form input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+#footer .container .copyright {
+  margin-top: 20px;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
+#footer .container .credits {
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
+#footer .container .credits a {
+  color: black;
+  text-decoration: none;
+}
